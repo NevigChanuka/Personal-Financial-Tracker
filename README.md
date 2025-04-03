@@ -2,7 +2,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)  
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)  
-[![GitHub Stars](https://img.shields.io/github/stars/yourusername/repo?style=social)](https://github.com/NevigChanuka/Personal-Financial-Tracker)  
+[![GitHub Stars](https://img.shields.io/github/stars/NevigChanuka/Personal-Financial-Tracker?style=social)](https://github.com/NevigChanuka/Personal-Financial-Tracker)  
 
 
 ## Description
